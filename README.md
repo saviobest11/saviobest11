@@ -1,16 +1,17 @@
-## Hi there 👋
+# Manuel Ruiz Gómez
 
-<!--
-**saviobest11/saviobest11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador (DAM) centrado en **Android** (Java/Kotlin). Me gusta construir proyectos claros, bien documentados y con buenas prácticas.
 
-Here are some ideas to get you started:
+**Stack principal:** Android (Java/Kotlin) · APIs REST · SQL (SQLite/PostgreSQL) · Git/GitHub · Spring Boot  
+**Plus:** Python (pandas/numpy/matplotlib...) · automatización y análisis de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- 📱 **ControlBetsMM** — App Android para gestión de apuestas deportivas (Proyecto final DAM, nota 10)
+- 📦 **StockyQR** — Inventario con QR (Android + API + Docker) *(en progreso)*
+
+## Tecnologías
+Android Studio · Java · Kotlin · SQLite · REST · Git/GitHub · Python (pandas/numpy/matplotlib...) · Docker · Spring Boot
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/manuel-ru%C3%ADz-g%C3%B3mez-166a72332/
+
